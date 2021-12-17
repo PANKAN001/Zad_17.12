@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.exe
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.deps.json
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.runtimeconfig.json
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.dll
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\bin\Debug\netcoreapp3.1\Zad_17.12_2.pdb
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17._12_2.Form1.resources
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.AssemblyInfo.cs
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.dll
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.pdb
+C:\Users\User\source\repos\Zad_17.12_2\Zad_17.12_2\obj\Debug\netcoreapp3.1\Zad_17.12_2.genruntimeconfig.cache
